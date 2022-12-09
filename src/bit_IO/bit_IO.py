@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Input and output of single bits
+# # bit_IO: Input and output of single bits
 
 # In[13]:
 

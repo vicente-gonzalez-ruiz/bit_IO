@@ -1,5 +1,7 @@
-bit_io.py:	bit_io.ipynb
-		jupyter nbconvert --to script bit_io.ipynb
+default:	all
 
-test:
-	ipython bit_io.py
+bit_IO.py:	bit_IO.ipynb
+		jupyter nbconvert --to script bit_IO.ipynb
+
+all:	bit_IO.py
+	ipython bit_IO.py
