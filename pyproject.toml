@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/vicente-gonzalez-ruiz/arithmetic_coding"
-"Bug Tracker" = "https://github.com/vicente-gonzalez-ruiz/arithmetic_coding/issues"
+"Homepage" = "https://github.com/vicente-gonzalez-ruiz/bit_IO"
+"Bug Tracker" = "https://github.com/vicente-gonzalez-ruiz/bit_IO/issues"
